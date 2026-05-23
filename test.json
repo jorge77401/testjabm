@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "maintenance": false,
+  "motd": "Bienvenido a Orbit Station",
+  "news": [
+    {
+      "title": "Actualización 0.1",
+      "message": "Se agregaron anomalías gravitacionales",
+      "priority": "normal"
+    },
+    {
+      "title": "Mantenimiento EOS",
+      "message": "Los servicios online estarán inactivos hoy",
+      "priority": "high"
+    }
+  ]
+}
